@@ -1,0 +1,17 @@
+
+.gitignore
+.idea/VizTools.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+Would skip repository ContinuousIntegration/
+ci_dep.txt
+dist/
+pep8.txt
+platform_venv/
+test-reports/
+viztools.egg-info/
+viztools/__init__.pyc
+viztools/rendering_resource/__init__.pyc
+viztools/rendering_resource/brayns.pyc
+viztools/version.pyc
